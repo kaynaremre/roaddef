@@ -1,0 +1,10 @@
+{
+    "maps": [
+        {
+            "path": "/Game/round_1/Maps/round1", 
+            "name": "round1", 
+            "use_carla_materials": true
+        }
+    ], 
+    "props": []
+}
